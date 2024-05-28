@@ -12,4 +12,4 @@ The RF lock is an RFID (Radio-Frequency Identification) device designed to serve
 5. DC Motor
 
 # Working Mechanisms & Features
-Double Safety Mechanism: To start the motorcycle equipped with an RF lock, the designated RFID must be scanned, and the key fob must be inserted into the keyhole located on the motorcycle's dashboard. Only after these steps are completed can the motorcycle be started up.
+Double Locking Mechanism: To start the motorcycle equipped with an RF lock, the designated RFID must be scanned, and the key fob must be inserted into the keyhole located on the motorcycle's dashboard. Only after these steps are completed can the motorcycle be started up.
